@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1>About Me</h1>
+            <h1>This is About Me</h1>
             <span class="subheading">This is what I do.</span>
           </div>
         </div>
@@ -58,7 +58,7 @@
               </a>
             </li>
           </ul>
-          <p class="copyright text-muted">Copyright &copy; Your Website 202</p>
+          <p class="copyright text-muted">Copyright &copy; Your Website 2020</p>
         </div>
       </div>
     </div>
